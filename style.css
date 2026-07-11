@@ -165,14 +165,16 @@ margin-bottom: 50px;
     padding: 30px;
     display: flex;
     flex-direction: column;
-   
+
 }
 .card-active .plan{
    color : #93C5FD;
    
 }
 .card-active hr{
-    border-top: 1px solid #E5E7EB;
+    border-top: 1px solid #010218;
+    margin: 25px 0;
+    
 }
 
 .card-active h3{
