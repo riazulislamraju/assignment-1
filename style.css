@@ -130,7 +130,7 @@ margin-bottom: 50px;
     gap: 30px;
 }
 .card{
-    border: 1px solid #FFFFFF;
+    border: 1px solid #E5E7EB;
     border-radius: 10px;
     padding: 30px;
     background: white;
@@ -147,6 +147,7 @@ margin-bottom: 50px;
     font-size: 50px;
     margin: 10px 0 5px;
     color: #0D1B2A;
+    
 }
 .price-text{
     color: #888888;
@@ -160,7 +161,6 @@ margin-bottom: 50px;
 .card-active{
     background: #0D1B2A;
     color: white;
-    margin: 25px 0;
     border-radius: 10px;
     padding: 30px;
     display: flex;
@@ -174,11 +174,7 @@ margin-bottom: 50px;
 .card-active hr{
     border-top: 1px solid #E5E7EB;
 }
-.plan hr{
-    margin: 25px 0;
-    border: none;
-    border-top: 1px solid #E5E7EB;
-}
+
 .card-active h3{
     font-size: 50px;
     margin: 10px 0 5px;
@@ -188,6 +184,7 @@ margin-bottom: 50px;
      margin-bottom: 15px;
     color: #FFFFFF;
     font-size: 15px;
+    
 }
 .btn-outline{
     display: block;
@@ -316,8 +313,4 @@ margin-bottom: 50px;
 .button-footer:hover{
     background: rgb(53, 53, 53);
 }
-.footer-left{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
+
