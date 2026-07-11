@@ -1,0 +1,1 @@
+Act as a senior UI/UX designer and web engineer. I am building a developer conference landing website. Based on the current sections (Navbar, Hero, Speakers, and Pricing), suggest the most suitable next section to improve the user experience and complete the landing page. Explain why it's a good choice and provide 2-5 section ideas.
